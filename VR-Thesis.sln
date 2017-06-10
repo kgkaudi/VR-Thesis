@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR-Thesis.Plugins", "VR-Thesis.Plugins.csproj", "{AFFA4DC3-6265-5B0B-FAF0-7380FA7D7031}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR-Thesis", "VR-Thesis.csproj", "{84E86592-B913-D12D-1BD1-4A11FC7FC553}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR-Thesis.Editor", "VR-Thesis.Editor.csproj", "{B75CD750-9BFD-2DA2-F5BC-FF26B860CED7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFFA4DC3-6265-5B0B-FAF0-7380FA7D7031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFFA4DC3-6265-5B0B-FAF0-7380FA7D7031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFFA4DC3-6265-5B0B-FAF0-7380FA7D7031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFFA4DC3-6265-5B0B-FAF0-7380FA7D7031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84E86592-B913-D12D-1BD1-4A11FC7FC553}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E86592-B913-D12D-1BD1-4A11FC7FC553}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E86592-B913-D12D-1BD1-4A11FC7FC553}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E86592-B913-D12D-1BD1-4A11FC7FC553}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B75CD750-9BFD-2DA2-F5BC-FF26B860CED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B75CD750-9BFD-2DA2-F5BC-FF26B860CED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B75CD750-9BFD-2DA2-F5BC-FF26B860CED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B75CD750-9BFD-2DA2-F5BC-FF26B860CED7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
